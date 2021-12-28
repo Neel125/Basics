@@ -34,5 +34,5 @@ perfect_high4_0_00093_20210611-165430_15593.mp4.json
 
 ### Run python file
 ```
-python PalletMoves.py
+python pallet_moves.py
 ```

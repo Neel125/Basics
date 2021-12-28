@@ -45,3 +45,30 @@
     │   │   ├── requirements.txt            # All python requirements 
     │   │   ├── ReadME.md                   # Read me file for description, installations and how to run, etc...
     │   │   ├── training_changelog.md       # Training changelog file to maintain the training details and what changes for second time training  
+
+
+## Project Setup
+
+#### Install system dependancies
+```
+write here
+```
+
+
+#### Create Environment
+```
+conda create -n env_name python=3.8
+```
+
+#### Install project dependancies
+```
+pip install -r requirements.txt
+```
+
+#### How to Run?
+Mention file name to run 
+```
+python train.py 
+or 
+python inference.py
+```

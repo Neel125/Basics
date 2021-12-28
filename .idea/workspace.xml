@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2110170b-19c2-469d-a49c-00f33e9f3fd2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo-Project/ReadME.md" beforeDir="false" afterPath="$PROJECT_DIR$/Demo-Project/ReadME.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Folder-Structure-Model-Training/ReadME.md" beforeDir="false" afterPath="$PROJECT_DIR$/Folder-Structure-Model-Training/ReadME.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -183,7 +184,8 @@
       <workItem from="1640586774277" duration="4303000" />
       <workItem from="1640601393144" duration="8946000" />
       <workItem from="1640673310983" duration="16000" />
-      <workItem from="1640673338135" duration="9729000" />
+      <workItem from="1640673338135" duration="11919000" />
+      <workItem from="1640690049078" duration="1645000" />
     </task>
     <servers />
   </component>
