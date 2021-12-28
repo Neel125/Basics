@@ -1,8 +1,8 @@
 """
 This file manages the all forklift objects like create, remove and manage old forklifts, etc...
 """
-from Models.PalletModel import PalletModel
-from Models.ForkliftModel import ForkliftModel
+from models.pallet import PalletModel
+from models.forklift import ForkliftModel
 
 
 class ForkliftManager:

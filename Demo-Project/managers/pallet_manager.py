@@ -1,7 +1,7 @@
-from Models.PalletModel import PalletModel
+from models.pallet import PalletModel
 from datetime import timedelta
 from utils import *
-import config
+from configs import config
 import math
 
 

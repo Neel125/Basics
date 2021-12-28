@@ -1,10 +1,10 @@
 """
 This file manages the all FNP objects like create, remove, manage old FNPs, assign the Pallet and Forklift to FNP etc...
 """
-from Models.FNPModel import FNPModel
-from Enums.FNPStates import FNPStates
+from models.fnp import FNPModel
+from constants.fnp_states import FNPStates
 from utils import *
-import config
+from configs import config
 import numpy as np
 import math
 
@@ -233,7 +233,7 @@ class FNPManager:
                 """Old pallet id is none then assign the current pallet id"""
                 fnp.old_pallet_id = fnp.pallet_id
 
-    def assign_forklift_id_to_fnp(self, fnp: FNPObject, x1: int, y1: int, x2: int, y2: int):
+    def assign_forklift_id_to_fnp(self, fnp: FNPModel, x1: int, y1: int, x2: int, y2: int):
         """
         Assign forklift id to the fnp object which are inside fnp object
         :param fnp: fnp objects

@@ -1,11 +1,11 @@
 """
 This file indetify the Pallet moves to detect the Mate/Unmate Events and save data to database
 """
-from Models.PalletModel import PalletModel
-from Models.ForkliftModel import ForkliftModel
-from Managers.PalletManager import PalletManager
-from Managers.ForkliftManager import ForkliftManager
-from Managers.FNPManager import FNPManager
+from models.pallet import PalletModel
+from models.forklift import ForkliftModel
+from managers.pallet_manager import PalletManager
+from managers.forklift_manager import ForkliftManager
+from managers.fnp_manager import FNPManager
 
 
 class PalletMoves:

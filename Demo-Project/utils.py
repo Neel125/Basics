@@ -1,7 +1,7 @@
 """
 This file contains the common function to use in the all projects
 """
-from Enums.PalletPositions import PalletPosition
+from constants.pallet_positions import PalletPosition
 import math
 import numpy as np
 
