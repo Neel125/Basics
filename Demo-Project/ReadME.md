@@ -1,4 +1,6 @@
-# Pallet and Forklift Mate/Unmate event detection.
+# Project Descriptions
+In this project we have to detect the mate/unmate events of the Pallet. To detect the events, we first get the messages from the service bus.
+After that we process the all message to detect the mate/unmate events. If there is a mate/unmate event is happening then we save that event into the database.
 
 ## How to run
 

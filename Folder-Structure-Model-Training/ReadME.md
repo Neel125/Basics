@@ -69,6 +69,14 @@ pip install -r requirements.txt
 Mention file name to run 
 ```
 python train.py 
-or 
+    or 
 python inference.py
 ```
+
+### Mention Latest and Best model to inference
+Path of the latest and best accurate model we are currently using
+```
+Model Name or Path of the model
+```
+
+
