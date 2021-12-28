@@ -4,34 +4,29 @@
     │   ├── Project-Name                    # Your Project Name
     │   │   ├── dataset                     # Dataset folder in which you store all the images
     │   │   │   ├── data_v1                 # Intial dataset used for first model trainig
-    │   │   │   │   ├── train               # train set
-    │   │   │   │   │   ├── image1.jpg      # image file
-    │   │   │   │   │   ├── image2.jpg      # image file
-    │   │   │   │   ├── validation          # validation set
-    │   │   │   │   │   ├── image1.jpg      # image file
-    │   │   │   │   │   ├── image2.jpg      # image file
-    │   │   │   │   ├── test                # test set
-    │   │   │   │   │   ├── image1.jpg      # image file
-    │   │   │   │   │   ├── image2.jpg      # image file
-    │   │   │   ├── data_v2                 # Modified dataset for second time trained
     │   │   │   │   ├── train               # trin set
-    │   │   │   │   │   ├── image1.jpg      # image file
-    │   │   │   │   │   ├── image2.jpg      # image file
     │   │   │   │   ├── validation          # validation set
-    │   │   │   │   │   ├── image1.jpg      # image file
-    │   │   │   │   │   ├── image2.jpg      # image file 
-    │   │   │   │   ├── test                # test set
-    │   │   │   │   │   ├── image1.jpg      # image file
-    │   │   │   │   │   ├── image2.jpg      # image file  
+    │   │   │   │   └── test                # test set
+    │   │   │   └── data_v2                 # Modified dataset for second time trained
+    │   │   │       └── ...
+    │   │   │ 
     │   │   ├── scripts                     # Folder in which all python scripted are listed
+    │   │   │   ├── preprocessing           # folder contains the data pre-preocessing scripts
+    │   │   │   │   ├── partition_dataset.py # 
+    │   │   │   │   ├── generate_tfrecord.py # 
+    │   │   │   │   └── ...
     │   │   │   ├── model.py                # model architecture file 
     │   │   │   ├── inference.py            # inference file to evalute model
     │   │   │   ├── inference_on_video.py   # infernce on video to model result on the video file or camera input
     │   │   │   ├── train.py                # model training file 
-    │   │   │   ├── test.py                 # extra file
+    │   │   │   └── test.py                 # extra file
+    │   │   │
     │   │   ├── training_1                  # This folder contains first time training related data and model
     │   │   │   ├── annotations             # annotations folder 
     │   │   │   │   ├── label_map.pbtxt     # label map file to list out all clasess
+    │   │   │   │   ├── annotations.csv     # label map file to list out all clasess
+    │   │   │   │   ├── train.tfrecord      # label map file to list out all clasess
+    │   │   │   │   ├── test.tfrecord       # label map file to list out all clasess
     │   │   │   ├── exported-models         # save exported model in this folder 
     │   │   │   │   ├── exported_model_file # exported model file
     │   │   │   ├── models                  # save all model checkpoint while training
