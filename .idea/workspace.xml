@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2110170b-19c2-469d-a49c-00f33e9f3fd2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Demo-Project/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Demo-Project/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django-Demo/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Django-Demo/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Folder-Structure-Model-Training/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Folder-Structure-Model-Training/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Folder-Structure-Model-Training/ReadME.md" beforeDir="false" afterPath="$PROJECT_DIR$/Folder-Structure-Model-Training/ReadME.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,7 +183,7 @@
       <workItem from="1640586774277" duration="4303000" />
       <workItem from="1640601393144" duration="8946000" />
       <workItem from="1640673310983" duration="16000" />
-      <workItem from="1640673338135" duration="6867000" />
+      <workItem from="1640673338135" duration="9729000" />
     </task>
     <servers />
   </component>
