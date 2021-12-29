@@ -60,6 +60,7 @@ conda create -n env_name python=3.8
 pip install -r requirements.txt
 ```
 
+
 #### How to Run?
 Mention file name to run 
 ```
@@ -68,9 +69,10 @@ python train.py
 python inference.py
 ```
 
+
+
 ### Mention Latest and Best model to inference
 Path of the latest and best accurate model we are currently using
 ```
 Model Name or Path of the model
 ```
-
