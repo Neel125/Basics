@@ -109,3 +109,5 @@ def pallet_forklift_edge_distance(logger, pallet: object, forklift: object):
         dist = pallet_y1 - forklift_y2
     logger.info("===> Pallet and Forklift edges distance %s <===", dist)
     return dist
+
+
