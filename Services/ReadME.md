@@ -410,8 +410,3 @@ The [Timer] section of a unit file can contain some of the following directives:
   state.
   
 
-
-
-
-  
-
