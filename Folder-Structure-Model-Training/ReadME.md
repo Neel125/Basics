@@ -69,8 +69,6 @@ python train.py
 python inference.py
 ```
 
-
-
 ### Mention Latest and Best model to inference
 Path of the latest and best accurate model we are currently using
 ```

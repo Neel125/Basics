@@ -40,4 +40,3 @@ class PalletMoves:
 if __name__ == '__main__':
     p = PalletMoves()
     p.message_thread(None)
-
