@@ -65,7 +65,7 @@ pip install -r requirements.txt
 Mention file name to run 
 ```
 python train.py 
-    or 
+    or
 python inference.py
 ```
 
@@ -75,6 +75,4 @@ Path of the latest and best accurate model we are currently using
 Model Name or Path of the model
 ```
 
-Testing the Git Auto Push 42
-
-
+Testing the Git Auto Push 43
