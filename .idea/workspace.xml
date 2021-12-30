@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2110170b-19c2-469d-a49c-00f33e9f3fd2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Folder-Structure-Model-Training/ReadME.md" beforeDir="false" afterPath="$PROJECT_DIR$/Folder-Structure-Model-Training/ReadME.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +37,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Folder-Structure-Model-Training/requirements.txt" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="22r6ZJRmDvcO44T26fMLrvyvW0a" />
   <component name="ProjectViewState">
@@ -202,6 +204,7 @@
       <workItem from="1640854523955" duration="9000" />
       <workItem from="1640855184833" duration="938000" />
       <workItem from="1640856300241" duration="260000" />
+      <workItem from="1640856736873" duration="271000" />
     </task>
     <servers />
   </component>
