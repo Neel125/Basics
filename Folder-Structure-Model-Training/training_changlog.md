@@ -116,11 +116,18 @@ dataset/data_v2
 
 `Metric: mean_square_error`
 
+
 #### Pre-Trained Model used
 SSD MobileNet V2 FPNLite 640x640
+
 
 #### Saved model Path
 training_3/models
 
 #### Exported model Path
 training_3/exported-models
+
+
+
+
+

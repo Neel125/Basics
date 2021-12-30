@@ -8,3 +8,4 @@ python-dateutil==2.8.1
 redis==3.5.3
 tensorflow==2.3.0
 opencv-python==4.5.1
+requests
