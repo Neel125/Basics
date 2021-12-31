@@ -40,6 +40,9 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Demo-Project/requirements.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Folder-Structure-Model-Training/.gitignore" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Demo-Project/pallet_moves.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Folder-Structure-Model-Training/requirements.txt" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="22r6ZJRmDvcO44T26fMLrvyvW0a" />
@@ -229,6 +232,7 @@
       <workItem from="1640942088302" duration="54000" />
       <workItem from="1640942536211" duration="317000" />
       <workItem from="1640943269112" duration="489000" />
+      <workItem from="1640946380315" duration="56000" />
     </task>
     <servers />
   </component>
