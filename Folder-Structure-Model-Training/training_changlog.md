@@ -41,7 +41,6 @@ training_1/models
 #### Exported model Path
 training_1/exported-models
 
-
 ## Training 2 - 21-12-2021
 We are re-trainig the model becuase we are not getting the good result from the last trainig.
 This time we are resizing the images to train the model.
@@ -119,7 +118,6 @@ dataset/data_v2
 
 #### Pre-Trained Model used
 SSD MobileNet V2 FPNLite 640x640
-
 
 #### Saved model Path
 training_3/models

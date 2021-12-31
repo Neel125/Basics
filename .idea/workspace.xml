@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2110170b-19c2-469d-a49c-00f33e9f3fd2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Demo-Project/ReadME.md" beforeDir="false" afterPath="$PROJECT_DIR$/Demo-Project/ReadME.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Folder-Structure-Model-Training/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Folder-Structure-Model-Training/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Folder-Structure-Model-Training/ReadME.md" beforeDir="false" afterPath="$PROJECT_DIR$/Folder-Structure-Model-Training/ReadME.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Folder-Structure-Model-Training/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Folder-Structure-Model-Training/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Folder-Structure-Model-Training/training_changlog.md" beforeDir="false" afterPath="$PROJECT_DIR$/Folder-Structure-Model-Training/training_changlog.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Install Anaconda/ReadME.md" beforeDir="false" afterPath="$PROJECT_DIR$/Install Anaconda/ReadME.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Installation of Pytorch/ReadME.md" beforeDir="false" afterPath="$PROJECT_DIR$/Installation of Pytorch/ReadME.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -241,6 +247,7 @@
       <workItem from="1640950861078" duration="7000" />
       <workItem from="1640951192717" duration="11000" />
       <workItem from="1640951455654" duration="371000" />
+      <workItem from="1640952047653" duration="271000" />
     </task>
     <servers />
   </component>
