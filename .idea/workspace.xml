@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2110170b-19c2-469d-a49c-00f33e9f3fd2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Folder-Structure-Model-Training/ReadME.md" beforeDir="false" afterPath="$PROJECT_DIR$/Folder-Structure-Model-Training/ReadME.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Folder-Structure-Model-Training/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Folder-Structure-Model-Training/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Folder-Structure-Model-Training/training_changlog.md" beforeDir="false" afterPath="$PROJECT_DIR$/Folder-Structure-Model-Training/training_changlog.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -224,6 +227,7 @@
       <workItem from="1640931671814" duration="623000" />
       <workItem from="1640940490669" duration="8000" />
       <workItem from="1640940839864" duration="331000" />
+      <workItem from="1640941356087" duration="592000" />
     </task>
     <servers />
   </component>
