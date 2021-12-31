@@ -60,7 +60,6 @@ conda create -n env_name python=3.8
 pip install -r requirements.txt
 ```
 
-
 #### How to Run?
 Mention file name to run 
 ```
@@ -75,4 +74,4 @@ Path of the latest and best accurate model we are currently using
 Model Name or Path of the model
 ```
 
-Testing the Git Auto Push final 94
+Testing the Git Auto Push final 95

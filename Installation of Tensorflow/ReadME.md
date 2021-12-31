@@ -84,5 +84,3 @@ $ conda install tensorflow=1.13.1-1.15
 ```shell
 $ conda install tensorflow=1.0.0-1.12
 ```
-
-

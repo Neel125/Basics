@@ -141,7 +141,6 @@ dataset
 # Model
 **/saved_model/
 
-
 # Input Data files
 # image files
 *.jpg
@@ -150,7 +149,6 @@ dataset
 # annotation files
 *.xml
 *.csv
-
 
 # Large media files
 *.mp4

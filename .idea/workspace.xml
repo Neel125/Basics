@@ -4,10 +4,12 @@
     <list default="true" id="2110170b-19c2-469d-a49c-00f33e9f3fd2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Demo-Project/ReadME.md" beforeDir="false" afterPath="$PROJECT_DIR$/Demo-Project/ReadME.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo-Project/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Demo-Project/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Folder-Structure-Model-Training/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Folder-Structure-Model-Training/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Folder-Structure-Model-Training/ReadME.md" beforeDir="false" afterPath="$PROJECT_DIR$/Folder-Structure-Model-Training/ReadME.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Folder-Structure-Model-Training/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Folder-Structure-Model-Training/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Folder-Structure-Model-Training/training_changlog.md" beforeDir="false" afterPath="$PROJECT_DIR$/Folder-Structure-Model-Training/training_changlog.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Services/ReadME.md" beforeDir="false" afterPath="$PROJECT_DIR$/Services/ReadME.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Install Anaconda/ReadME.md" beforeDir="false" afterPath="$PROJECT_DIR$/Install Anaconda/ReadME.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -231,6 +233,7 @@
       <workItem from="1640940839864" duration="331000" />
       <workItem from="1640941356087" duration="592000" />
       <workItem from="1640942088302" duration="54000" />
+      <workItem from="1640942536211" duration="317000" />
     </task>
     <servers />
   </component>
