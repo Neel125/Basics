@@ -77,14 +77,14 @@ conda activate env_name
 python manage.py runserver
 ```
 
-## Create SuperUser
 
+## Create SuperUser
 ```
 python manage.py createsuperuser
 ```
 
-## Postman API
 
+## Postman API
 [Postman collection:](https://www.getpostman.com/collections/9bf76896d023f39b242a)
 
 [Post API Documentation:](https://documenter.getpostman.com/view/8895684/TzRX9RR1)
